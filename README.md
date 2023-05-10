@@ -1,4 +1,6 @@
-first run spotlock code.  Based on the Following example file:
+First run spotlock code.  Based on the Following example file:
+Code uploaded to Github and downloaded to home.
+
 
 # NMEA Parser Example
 
